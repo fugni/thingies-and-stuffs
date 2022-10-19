@@ -21,8 +21,7 @@ body {
 }
 
 #left-side {
-    background: linear-gradient(to right, rgb(90, 0, 234), rgb(234, 64, 122), rgb(90, 0, 234));
-    background-size: 200%;
+    background: linear-gradient(to right, rgb(90, 0, 234), rgb(234, 64, 122)  );
     z-index: 2;
 }
 
